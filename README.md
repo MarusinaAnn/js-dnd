@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ifg3kctbxu9iwm3r?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/js-dnd)
 
-[![CI](https://github.com/MarusinaAnn/ahj_6_dnd/actions/workflows/web.yml/badge.svg)](https://marusinaann.github.io/js-dnd)
+[![CI](https://github.com/MarusinaAnn/js-dnd/actions/workflows/web.yml/badge.svg)](https://marusinaann.github.io/js-dnd)
 
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
