@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/MarusinaAnn/js-dnd/actions/workflows/web.yml/badge.svg)](https://marusinaann.github.io/js-dnd)
 
+https://marusinaann.github.io/js-dnd/
+
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
